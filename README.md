@@ -14,7 +14,7 @@
 
 ## Applications
 
-### Freedom Finance
+### Freedom Finance (_July 2024_ - _Present_)
 - [Freedom Banker](https://apps.apple.com/us/app/freedom-banker/id1631895962). Bank application with > 2 million installs.
 
 ### Liquidfish (_August 2020_ - _March 2024_)
