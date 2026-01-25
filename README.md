@@ -13,8 +13,12 @@
 - Methodologies: Kanban, Agile, EOS (entrepreneural operation system)
 
 ## Applications
-### Liquidfish (_August 2020_ - _Present_)
-- [Philippe Saisse](https://apps.apple.com/us/app/philippe-saisse/id6444134222). Multimedia platfom for creative persons that allows to monetise their own content and provide unique experience for funs such as online events. Built with SwiftUI, Flat Buffers as data transfer protocol, Core Data as a storage. SPM as dependency manager.
+
+### Freedom Finance
+- [Freedom Banker](https://apps.apple.com/us/app/freedom-banker/id1631895962). Bank application with > 2 million installs.
+
+### Liquidfish (_August 2020_ - _March 2024_)
+- [Philippe Saisse](https://apps.apple.com/us/app/philippe-saisse/id6444134222). Multimedia platform for creative persons that allows to monetise their own content and provide unique experience for funs such as online events. Built with SwiftUI, Flat Buffers as data transfer protocol, Core Data as a storage. SPM as dependency manager.
 
 - [Braum's Fresh Market](https://apps.apple.com/us/app/braums-fresh-market/id1487529137?platform=iphone). Client-server B2C application for Oklahoma food company Braum's. Old version was built on MVC. New version was built on MVVM-C architecture and protocol oriented approach. Tools and sdks: Swift, CocoaPods, UIKit, Combine, UrlSession, async-await, gcd, Apple Pay, Heartland-sdk, Lottie, Datadog, Crashlytics, Push notifications, Deep links, CI/CD on Xcode Cloud.
 
